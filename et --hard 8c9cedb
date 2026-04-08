@@ -1,0 +1,71 @@
+[33mcommit 1473e217b95e0463c5e6eab837a752a3a58f7ff9[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: vishal-mis01 <mis@indianschoolgroup.com>
+Date:   Mon Apr 6 12:45:55 2026 +0530
+
+    delete all files
+
+D	.gitignore
+D	@vishal36__checklist-app.jks
+D	@vishal36__checklist-app_OLD_1.jks
+D	API_CLASSES_SUBJECTS_DOCUMENTATION.md
+D	AdminAssignTaskScreen.js
+D	AdminClassesScreen.js
+D	AdminCreateTaskScreen.js
+D	AdminDashboard.js
+D	AdminDashboardHome.js
+D	AdminFmsBuilder.js
+D	AdminFmsFormBuilderScreen.js
+D	AdminFmsMonitor.js
+D	AdminFmsView.js
+D	AdminFormBuilder.js
+D	AdminHolidayScreen.js
+D	AdminReportsScreen.js
+D	AdminSubjectsScreen.js
+D	AdminSyllabusUploadScreen.js
+D	AdminUserAccessScreen.js
+D	App.js
+D	CURRICULUM_API_ENDPOINTS.md
+D	CreateUserScreen.js
+D	DATABASE_CHANGES.md
+D	DATABASE_CLASSES_SUBJECTS.sql
+D	EDashboard.js
+D	EnhancedFormBuilder.js
+D	EnhancedFormSubmission.js
+D	FmsFormScreen.js
+D	FormResponsesViewer.js
+D	GOOGLE_FORMS_FEATURES.md
+D	IMPLEMENTATION_CHECKLIST.md
+D	INTEGRATION_GUIDE_UPDATES.md
+D	IN_APP_UPDATES_GUIDE.md
+D	LOGIN_TOKENS_TABLE.sql
+D	LoginScreen.js
+D	MIGRATION_NA_SUPPORT.md
+D	MIGRATION_assignment_id.md
+D	ProcessCoordinatorDashboard.js
+D	SelectFormScreen.js
+D	TasksScreen.js
+D	UserAllTasks.js
+D	UserDashboard.js
+D	UserFmsTasks.js
+D	UserFormFill.js
+D	UserFormsList.js
+D	UserLessonPlans.js
+D	UserLessonPlans.js.backup
+D	UserReports.js
+D	UserTasks.js
+D	apiConfig.js
+D	apiFetch.js
+D	app.json
+D	assets/adaptive-icon.png
+D	assets/favicon.png
+D	assets/icon.png
+D	assets/splash-icon.png
+D	babel.config.js
+D	eas.json
+D	fmsFormService.js
+D	index.js
+D	login-link.php
+D	metro.config.js
+D	package-lock.json
+D	package.json
+D	proxy.js
